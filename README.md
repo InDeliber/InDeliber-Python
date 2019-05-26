@@ -13,4 +13,8 @@
 + 《Think Python》
 + 《Python编程：从入门到实践》
 + 《Python语言程序设计》  
+&nbsp;
+&nbsp;
+## 2019.05.26
++ 《Think Python》
 
